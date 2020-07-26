@@ -1,1 +1,1 @@
-str from user2
+New str from User1
